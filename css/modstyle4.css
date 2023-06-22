@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+	background:url(../images/registro.png) no-repeat center center fixed;
+	-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+z-depth-3
+	
+}
+
+.container{
+	width: 400px;
+	height: 390px;
+	text-align: center;
+	background-color: rgba(243, 215, 132, 0.5);
+	border-radius: 10px;
+	margin-left: 130px;
+	margin-top: 50px;
+	box-shadow: inset -4px -4px rgba(0,0,0,0.5);
+	
+	}
+	
+.container img {
+	width: 150px;
+	height: 120px;
+	margin-top: -50px;
+	margin-bottom: 30px;
+	}
+	
+input{
+	height: 20px;
+	font-size: 16px;
+	margin-bottom: 12px;
+	padding-left: 10px;
+	
+	}
+	
+.bin-send{
+	height: 30px;
+	padding: 6px 25px;
+	color: #fff;
+	background-color: #5b190b;
+	
+	}

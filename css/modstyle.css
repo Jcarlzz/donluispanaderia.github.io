@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:url(../images/consulta.png) no-repeat center center fixed;
+	-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+	
+}
+
+table{
+	border-collapse: collapse;
+	width: 10%;
+	font-family: srial;
+	text-align: center;
+	
+}
+
+th {
+	background-color: #6d4d2c;
+	color: white;
+	
+}
+
+td {
+	background-color: #f4d384;
+	
+	
+	}

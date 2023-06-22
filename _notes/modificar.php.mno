@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Modificar" value="name:IDProducto;datatype:int,name:Nombre;datatype:string,name:Precio;datatype:real,name:Descripcion;datatype:string,name:imagen;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:IDProducto;datatype:int,name:Nombre;datatype:string,name:Precio;datatype:real,name:Descripcion;datatype:string,name:imagen;datatype:string" />
+</info>

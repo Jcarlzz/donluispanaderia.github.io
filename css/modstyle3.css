@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background: url(../images/eliminar.png) no-repeat center center fixed;
+	color: #FFF;
+	-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+	
+}
+
+.container{
+	width: 400px;
+	height: 400px;
+	text-align: center;
+	background-color: rgba(122, 33, 14, 0.5);
+	border-radius: 10px;
+	margin-left: 130px;
+	margin-top: 50px;
+	box-shadow: inset -4px -4px rgba(0,0,0,0.5);
+	}
+	
+.container img {
+	width: 150px;
+	height: 120px;
+	margin-top: -50px;
+	margin-bottom: 30px;
+	-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+	
+	}
+	
+input{
+	height: 20px;
+	font-size: 16px;
+	margin-bottom: 12px;
+	padding-left: 30px;
+	
+	}
+	
+.bin-send{
+	height: 30px;
+	padding: 6px 25px;
+	color: #000;
+	background-color: #f4d384;
+	
+	
+	
+	}
